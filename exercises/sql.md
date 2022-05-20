@@ -5,7 +5,7 @@ El objetivo de este ejercicio es entrenar la mente para que visualice cómo est�
 Haz lo siguiente:
 1. Descarga el cliente SQL [DBeaver](https://dbeaver.io/)
 2. Instálalo y cuando te pregunte si quieres crear una base da datos de muestra, responde "Sí". DBeaver creará una base de datos SQLite con unas cuantas tablas.
-3. Escribe sentencias SQL que muestren los datos que se piden en los enunciados de las siguientes tablas.
+3. Escribe sentencias SQL que muestren los datos que se piden en los enunciados de las siguientes tablas. Para abrir un editor de scripts SQL, `clic secundario en la base de datos --> SQL Editor --> New SQl Script`
 
 
 | Facturas y clientes                                                                                                                                                                                                                                  |
