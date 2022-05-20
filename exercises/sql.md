@@ -6,6 +6,9 @@ Haz lo siguiente:
 1. Descarga el cliente SQL [DBeaver](https://dbeaver.io/)
 2. Instálalo y cuando te pregunte si quieres crear una base da datos de muestra, responde "Sí". DBeaver creará una base de datos SQLite con unas cuantas tablas.
 3. Escribe sentencias SQL que muestren los datos que se piden en los enunciados de las siguientes tablas. Para abrir un editor de scripts SQL, `clic secundario en la base de datos --> SQL Editor --> New SQl Script`
+4. Graba un video mostrando tus _queries_ y explicando para qué sirve cada palabra o cláusula SQL que has necesitado usar.
+
+Recursos recomendados: https://www.w3schools.com/sql/default.asp
 
 
 | Facturas y clientes                                                                                                                                                                                                                                  |
