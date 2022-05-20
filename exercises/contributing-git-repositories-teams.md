@@ -20,7 +20,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
 |   Macarena   |      Objective-C       |    0.0%     |          0.0           |
 |    Matias    |          Perl          |    0.0%     |          0.0           |
-|   Natalia    |          Ruby          |    0.86%    |          0.0           |
+|   Natalia    |          Ruby          |    0.86%    |          63.6          |
 |   Victoria   |          Rust          |    0.0%     |          0.0           |
 |              |         Kotlin         |    0.0%     |          0.0           |
 |              |         Scala          |    0.0%     |          0.0           |
