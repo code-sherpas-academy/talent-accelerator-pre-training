@@ -3,7 +3,7 @@
 ## Exercise: Programming languages popularity
 
 Los objetivos de este ejercicio son:
-- practicar hacer commits en repositorios compartidos por equipos de desarrollo.
+- contribuir en un repositorio compartido por equipos de desarrollo.
 - entender qué es un conflicto en git, cuándo se provocan y cómo se resuelven.
 
 Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programación. Por cada lenguaje, tenemos que consultar sus índices de popularidad en [TIOBE Index](https://www.tiobe.com/tiobe-index/) y [IEEE Spectrum ranking](https://spectrum.ieee.org/top-programming-languages/) y actualizarlos en la tabla.
