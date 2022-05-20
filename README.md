@@ -1,6 +1,6 @@
 # Talent Accelerator Pre-training
 
-## Exercise: Programming languages popularity
+## Exercise 1: Programming languages popularity
 
 Los objetivos de este ejercicio son:
 - contribuir en un repositorio compartido por equipos de desarrollo.
