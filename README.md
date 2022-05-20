@@ -34,7 +34,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |              |         Prolog         |    0.0%     |          0.0           |
 |              |         Swift          |    0.0%     |          0.0           |
 
-Cada uno de vosotros tiene que hacer lo siguiente para su línea (ver columna _Author_):
+Cada uno de vosotros tiene que hacer lo siguiente para su fila (ver columna _Author_):
 1. Crea dos ramas a partir de la principal. Una para actualizar el índice TIOBE, y otra para el otro índice. _Elige unos nombres para tus ramas que expresen sin lugar a dudas qué casilla de la tabla se va a modificar. Piensa que tus compañeros también van a crear otras 2 ramas. Tendríamos que poder ver todos los nombres de las ramas en una lista y saber relacionarlas sin dificultad con la casilla de la tabla que va a modificar._
 2. Ve a la rama de TIOBE y modifica el valor de la casilla con el valor que has encontrado en la web.
 3. Haz commit del cambio con un mensaje descriptivo (ver [Cómo escribir un buen mensaje de _commit_](https://cbea.ms/git-commit/))
