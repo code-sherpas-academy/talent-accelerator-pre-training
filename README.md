@@ -42,7 +42,7 @@ Cada uno de vosotros tiene que hacer lo siguiente para su línea (ver columna _A
 5. Ve a la página web de este repositorio y crea una pull request desde tu rama hacia la rama _main_.
 6. Acepta la pull request tu misma/o para que se integren los cambios en main.
    1. Vuelve a hacer los pasos del 3 al 7 para hacer lo mismo pero con la rama de "IEEE Spectrum ranking". Si todo ha salido como esperamos, no habrás podido completar el paso 7. Esto se debe a que estás intentando modificar la misma línea que se ha modificado en _main_ y que aún no te has descargado en tu rama.
-7. Haz pull de _main_ hacia tu rama para resolver el conflicto y decidir cómo debe quedar finalmente.
+7. Haz pull de _main_ hacia tu rama para resolver el conflicto y decidir cómo debe quedar la línea finalmente.
 8. Cuando lo hayas conseguido, vuelve a repetir el proceso de cambiar el valor de una de las dos casillas, pero esta vez grábalo en video mientras lo explicas y grabas tu pantalla. Si no tienes experiencia grabando videos, te recomendamos una opción sencilla y rápida que es usar la aplicación [Zoom](https://zoom.us/). Crea una videollamada donde estés tu sola/o, comparte tu pantalla y empieza a grabar la videollamada. 
 
 
