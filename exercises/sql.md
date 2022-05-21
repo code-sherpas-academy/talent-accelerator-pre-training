@@ -8,7 +8,9 @@ Haz lo siguiente:
 3. Escribe sentencias SQL que muestren los datos que se piden en los enunciados de las siguientes tablas. Para abrir un editor de scripts SQL, `clic secundario en la base de datos --> SQL Editor --> New SQl Script`
 4. Graba un video mostrando tus _queries_ y explicando para qué sirve cada palabra o cláusula SQL que has necesitado usar.
 
-Recursos recomendados: https://www.w3schools.com/sql/default.asp
+Recursos recomendados: 
+- https://www.w3schools.com/sql/default.asp
+- https://www.sql-easy.com/es/
 
 
 | Facturas y clientes                                                                                                                                                                                                                                  |
