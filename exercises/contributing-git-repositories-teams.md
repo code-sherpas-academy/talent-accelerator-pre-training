@@ -16,7 +16,11 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Denise    |           C#           |    0.0%     |          0.0           |
 |  Juan Diego  |           R            |    0.0%     |          0.0           |
 |   Julieta    |          PHP           |    0.0%     |          0.0           |
+<<<<<<< HEAD
 |    Kevin     |           Go           |    1.11%     |          77.7           |
+=======
+|    Kevin     |           Go           |    1.11%     |          77.7           |
+>>>>>>> main
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
 |   Macarena   |      Objective-C       |    0.0%     |          0.0           |
 |    Matias    |          Perl          |    0.0%     |          0.0           |
