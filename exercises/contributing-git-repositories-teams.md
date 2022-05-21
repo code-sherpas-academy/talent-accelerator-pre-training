@@ -12,12 +12,11 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Álvaro    |         Python         |    0.0%     |          0.0           |
 |   Augusto    |          Java          |    0.0%     |          0.0           |
 |    Darío     |           C            |    0.0%     |          0.0           |
-|    Davina    |          C++           |    ⭕⭕     |          92.4          |
+|    Davina    |          C++           |    8.83%    |          92.4          |
 |    Denise    |           C#           |    0.0%     |          0.0           |
 |  Juan Diego  |           R            |    0.0%     |          0.0           |
 |   Julieta    |          PHP           |    0.0%     |          0.0           |
-|    Kevin     |           Go           |    0.0%     |          0.0           |
-|    Lucía     |         Delphi         |    0.0%     |          0.0           |
+|    Kevin     |           Go           |    1.11%     |          77.7           |
 |   Macarena   |      Objective-C       |    0.0%     |          0.0           |
 |    Matias    |          Perl          |    0.0%     |          0.0           |
 |   Natalia    |          Ruby          |    0.86%    |          63.6          |
