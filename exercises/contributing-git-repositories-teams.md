@@ -19,7 +19,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Kevin     |           Go           |    1.11%     |          77.7           |
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
 |   Macarena   |      Objective-C       |    1.03%    |          0.0           |
-|    Matias    |          Perl          |    0.0%     |          37.2          |
+|    Matias    |          Perl          |    0.99%    |          37.2          |
 |   Natalia    |          Ruby          |    0.86%    |          63.6          |
 |   Victoria   |          Rust          |    0.0%     |          0.0           |
 |              |         Kotlin         |    0.0%     |          0.0           |
