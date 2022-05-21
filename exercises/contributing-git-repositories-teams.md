@@ -9,7 +9,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Author    |  Programming language  | TIOBE index | IEEE Spectrum ranking  |
 |:------------:|:----------------------:|:-----------:|:----------------------:|
 |   Alfonso    |       Javascript       |    2.12%    |          88.1          |
-|    Álvaro    |         Python         |    0.0%     |          0.0           |
+|    Álvaro    |         Python         |   12.74%    |          0.0           |
 |   Augusto    |          Java          |    0.0%     |          0.0           |
 |    Darío     |           C            |    0.0%     |          0.0           |
 |    Davina    |          C++           |    0.0%     |          0.0           |
