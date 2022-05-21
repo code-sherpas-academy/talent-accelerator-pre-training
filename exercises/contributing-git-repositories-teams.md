@@ -18,7 +18,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |   Julieta    |          PHP           |    0.0%     |          0.0           |
 |    Kevin     |           Go           |    1.11%     |          77.7           |
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
-|   Macarena   |      Objective-C       |    1.03%    |          0.0           |
+|   Macarena   |      Objective-C       |    1.03%    |          44.4          |
 |    Matias    |          Perl          |    0.99%    |          37.2          |
 |   Natalia    |          Ruby          |    0.86%    |          63.6          |
 |   Victoria   |          Rust          |    0.0%     |          0.0           |
