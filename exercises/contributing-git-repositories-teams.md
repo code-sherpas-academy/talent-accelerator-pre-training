@@ -30,7 +30,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |              |        Clojure         |    0.0%     |          0.0           |
 |              |          Lisp          |    0.0%     |          0.0           |
 |              |         Prolog         |    0.0%     |          0.0           |
-|              |         Swift          |    0.0%     |          70.4          |
+|              |         Swift          |    1.23%    |          70.4          |
 
 Cada uno de vosotros tiene que hacer lo siguiente para su fila (ver columna _Author_):
 1. Crea dos ramas a partir de la principal. Una para actualizar el índice TIOBE, y otra para el otro índice. _Elige unos nombres para tus ramas que expresen sin lugar a dudas qué casilla de la tabla se va a modificar. Piensa que tus compañeros también van a crear otras 2 ramas. Tendríamos que poder ver todos los nombres de las ramas en una lista y saber relacionarlas sin dificultad con la casilla de la tabla que va a modificar._
