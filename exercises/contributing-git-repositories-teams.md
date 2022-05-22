@@ -9,14 +9,14 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Author    |  Programming language  | TIOBE index | IEEE Spectrum ranking  |
 |:------------:|:----------------------:|:-----------:|:----------------------:|
 |   Alfonso    |       Javascript       |    2.12%    |          88.1          |
-|    Álvaro    |         Python         |   12.74%    |          100.0        |
-|   Augusto    |          Java          |    0.0%     |          0.0           |
+|    Álvaro    |         Python         |   12.74%    |          100.0         |
+|   Augusto    |          Java          |    10.99%   |          95.4          |
 |    Darío     |           C            |    0.0%     |          0.0           |
 |    Davina    |          C++           |    8.83%    |          92.4          |
-|    Denise    |           C#           |    6.39%     |          82.4           |
+|    Denise    |           C#           |    6.39%    |          82.4          |
 |  Juan Diego  |           R            |    0.0%     |          0.0           |
-|   Julieta    |          PHP           |    1.52%     |          0.0           |
-|    Kevin     |           Go           |    1.11%     |          77.7           |
+|   Julieta    |          PHP           |    1.52%     |          0.0          |
+|    Kevin     |           Go           |    1.11%     |          77.7         |
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
 |   Macarena   |      Objective-C       |    1.03%    |          44.4          |
 |    Matias    |          Perl          |    0.99%    |          37.2          |
@@ -30,7 +30,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |              |        Clojure         |    0.0%     |          0.0           |
 |              |          Lisp          |    0.0%     |          0.0           |
 |              |         Prolog         |    0.0%     |          0.0           |
-|              |         Swift          |    0.0%     |          0.0           |
+|              |         Swift          |    1.23%    |          70.4          |
 
 Cada uno de vosotros tiene que hacer lo siguiente para su fila (ver columna _Author_):
 1. Crea dos ramas a partir de la principal. Una para actualizar el índice TIOBE, y otra para el otro índice. _Elige unos nombres para tus ramas que expresen sin lugar a dudas qué casilla de la tabla se va a modificar. Piensa que tus compañeros también van a crear otras 2 ramas. Tendríamos que poder ver todos los nombres de las ramas en una lista y saber relacionarlas sin dificultad con la casilla de la tabla que va a modificar._
