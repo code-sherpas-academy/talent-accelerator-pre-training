@@ -12,7 +12,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Álvaro    |         Python         |   12.74%    |          100.0        |
 |   Augusto    |          Java          |    0.0%     |          0.0           |
 |    Darío     |           C            |    0.0%     |          0.0           |
-|    Davina    |          C++           |    8.83%    |          92.4          |
+|    Davina    |          C++           |    0%       |            0           |
 |    Denise    |           C#           |    6.39%     |          82.4           |
 |  Juan Diego  |           R            |    0.0%     |          0.0           |
 |   Julieta    |          PHP           |    0.0%     |          0.0           |
