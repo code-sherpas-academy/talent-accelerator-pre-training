@@ -9,14 +9,14 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |    Author    |  Programming language  | TIOBE index | IEEE Spectrum ranking  |
 |:------------:|:----------------------:|:-----------:|:----------------------:|
 |   Alfonso    |       Javascript       |    2.12%    |          88.1          |
-|    Álvaro    |         Python         |   12.74%    |          100.0        |
-|   Augusto    |          Java          |    0.0%     |          0.0           |
+|    Álvaro    |         Python         |   12.74%    |          100.0         |
+|   Augusto    |          Java          |    0.0%     |          95.4          |
 |    Darío     |           C            |    0.0%     |          0.0           |
 |    Davina    |          C++           |    8.83%    |          92.4          |
-|    Denise    |           C#           |    6.39%     |          82.4           |
+|    Denise    |           C#           |    6.39%    |          82.4          |
 |  Juan Diego  |           R            |    0.0%     |          0.0           |
 |   Julieta    |          PHP           |    0.0%     |          0.0           |
-|    Kevin     |           Go           |    1.11%     |          77.7           |
+|    Kevin     |           Go           |    1.11%    |          77.7          |
 |    Lucía     |         Delphi         |    0.0%     |          0.0           |
 |   Macarena   |      Objective-C       |    1.03%    |          44.4          |
 |    Matias    |          Perl          |    0.99%    |          37.2          |
