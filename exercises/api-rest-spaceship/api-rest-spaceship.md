@@ -11,6 +11,7 @@
 - Creación de una aplicación un dominio complejo (no trivial). Un ejemplo de dominio trivial es un CRUD sin reglas ni restricciones de negocio como el take-home project que ya habéis hecho. Un ejemplo de dominio complejo es un dominio con reglas y restricciones de negocio como puede ser el modelado del videojuego (con sus reglas y mecánicas de juego) de la sesión de pair programming.
 - Detectar conceptos de un dominio que tengan datos y comportamiento y diseñarlos con orientación a objetos.
 - Experimentar procesos de desarrollo de software iterativos e incrementales.
+- Tomar la costumbre de expresar todos los conceptos en inglés en el código.
 
 # Introducción
 
@@ -25,6 +26,7 @@ Las reglas y restricciones del dominio están inspiradas en el videojuego [FTL: 
 El usuario de nuestra aplicación es un hipotético _Game Master_ que tiene que poder controlar todo lo que pasa en el simulador a través de la API que le facilitemos. Ese «todo» es lo que vamos a ir desarrollando a lo largo del proyecto.
 
 Tened en cuenta que las _features_ van a ser descritas como si el _Game Master_ os pidiera lo que quiere directamente a vosotras/os. Este _Game Master_ no tiene ningún conocimiento técnico por lo que no esperéis detalles técnicos o tecnológicos. El _Game Master_ os va a hablar estrictamente sobre sus necesidades y desde su conocimiento experto acerca de las naves espaciales de ciencia ficción, pero con total desconocimiento sobre aplicaciones web, software, APIs, identificadores, funciones, orientación a objetos y persistencia de datos.
+Además, el _Game Master_ no es perfecto describiendo el dominio de los simuladores de batallas espaciales. Es posible que os pida cosas, pero no os diga cómo se tiene que comportar la aplicación en ciertos casos específicos que no ha contemplado.
 
 # Proceso de desarrollo
 
@@ -42,8 +44,12 @@ Proceso:
 
 ## Feature 1
 
-Como _Game Master_ quiero poder crear una nave espacial. Una nave espacial tiene
+Como _Game Master_ quiero crear una nave espacial. Las naves tienen `health` que se representa con un número entero. Un valor de 0 o menor que 0 significa que la nave está destruida; un valor positivo significa que la nave sigue funcionando. 
 
 ## Feature 2
 
+Como _Game Master_ quiero ver todas las naves espaciales creadas.
+
 ## Feature 3
+
+Como _Game Master_ quiero poder hacer que una nave `A` dispare a otra nave `B`. La consecuencia de que `A` dispare a `B` es que la `health` de `B` decrementa en 1.
