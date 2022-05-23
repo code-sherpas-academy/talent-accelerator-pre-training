@@ -22,7 +22,8 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |  Macarena  |     Objective-C      |    1.03%    |         44.4          |
 |   Matias   |         Perl         |    0.99%    |         37.2          |
 |  Natalia   |         Ruby         |    0.86%    |         63.6          |
-|  Victoria  |         Rust         |    0.39%    |          0.0          |
+|  Victoria  |         Rust         |    0.39%    |         63.1          |
+
 |            |        Kotlin        |    0.0%     |          0.0          |
 |            |        Scala         |    0.0%     |          0.0          |
 |            |       Haskell        |    0.0%     |          0.0          |
