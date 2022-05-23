@@ -28,10 +28,10 @@ Las reglas y restricciones del dominio están inspiradas en el videojuego [FTL: 
 ![FTL: Faster Than Light](images/FTL-image.jpg "FTL: Faster Than Light")
 
 
-## Features
+# Features
 
-### Feature 1
+## Feature 1
 
-### Feature 2
+## Feature 2
 
-### Feature 3
+## Feature 3
