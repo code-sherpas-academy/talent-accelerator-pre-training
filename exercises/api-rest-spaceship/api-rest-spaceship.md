@@ -26,7 +26,7 @@ Las reglas y restricciones del dominio están inspiradas en el videojuego [FTL: 
 El usuario de nuestra aplicación es un hipotético _Game Master_ que tiene que poder controlar todo lo que pasa en el simulador a través de la API que le facilitemos. Ese «todo» es lo que vamos a ir desarrollando a lo largo del proyecto.
 
 Tened en cuenta que las _features_ van a ser descritas como si el _Game Master_ os pidiera lo que quiere directamente a vosotras/os. Este _Game Master_ no tiene ningún conocimiento técnico por lo que no esperéis detalles técnicos o tecnológicos. El _Game Master_ os va a hablar estrictamente sobre sus necesidades y desde su conocimiento experto acerca de las naves espaciales de ciencia ficción, pero con total desconocimiento sobre aplicaciones web, software, APIs, identificadores, funciones, orientación a objetos y persistencia de datos.
-Además, el _Game Master_ no es perfecto describiendo el dominio de los simuladores de batallas espaciales. Es posible que os pida cosas, pero no os diga cómo se tiene que comportar la aplicación en ciertos casos específicos que no ha contemplado.
+Además, el _Game Master_ no es perfecto describiendo el dominio de los simuladores de batallas espaciales: es posible que no haya contemplado ciertos casos específicos.
 
 # Proceso de desarrollo
 
