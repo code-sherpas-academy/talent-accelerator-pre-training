@@ -52,4 +52,4 @@ Como _Game Master_ quiero ver todas las naves espaciales creadas.
 
 ## Feature 3
 
-Como _Game Master_ quiero poder hacer que una nave `A` dispare a otra nave `B`. La consecuencia de que `A` dispare a `B` es que la `health` de `B` decrementa en 1.
+Como _Game Master_ quiero poder hacer que una nave cualquiera `A` dispare a otra nave cualquiera `B`. La consecuencia de que `A` dispare a `B` es que la `health` de `B` decrementa en 1.
