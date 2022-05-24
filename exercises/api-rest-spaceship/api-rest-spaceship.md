@@ -53,3 +53,11 @@ Como _Game Master_ quiero ver todas las naves espaciales creadas.
 ## Feature 3
 
 Como _Game Master_ quiero poder hacer que una nave cualquiera `A` dispare a otra nave cualquiera `B`. La consecuencia de que `A` dispare a `B` es que la `health` de `B` decrementa en 1.
+
+## Feature 4
+
+Como _Game Master_ quiero que el `health` de las naves no pueda ser negativo. Dicho de otra manera, el `health` nunca podrá decrementar por debajo de 0. Tampoco podrán crearse naves con `health` negativo.
+
+## Feature 5
+
+Como _Game Master_ quiero que las naves no puedan disparar si están destruidas.
