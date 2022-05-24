@@ -23,7 +23,7 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |   Matias   |         Perl         |    0.99%    |         37.2          |
 |  Natalia   |         Ruby         |    0.86%    |         63.6          |
 |  Victoria  |         Rust         |    0.39%    |         63.1          |
-|  JoseMi    |        Kotlin        |    0.39%    |          0.0          |
+|   JoseMi   |        Kotlin        |    0.39%    |         58.5          |
 |            |        Scala         |    0.0%     |          0.0          |
 |            |       Haskell        |    0.0%     |          0.0          |
 |            |     Visual Basic     |    0.0%     |          0.0          |
