@@ -65,3 +65,13 @@ Como _Game Master_ quiero que las naves no puedan disparar si están destruidas.
 ## Feature 6
 
 Como _Game Master_ quiero que las naves tengan un arma (`weapon`). A partir de hora, cuando una nave cualquiera `A` dispara a otra nave cualquiera `B`, la nave `A` ordena a su `weapon` que dispare contra `B`.
+
+## Feature 7
+
+Un poco de contexto: _En el año en el que se ambienta este simulador, 2535, ya existen los generadores de electricidad portátiles basados en fusión nuclear que permiten realizar viajes espaciales sin tener que repostar durante décadas_.
+
+Como _Game Master_ quiero que las naves tengan un generador el cual suministra energía a toda la nave. 
+La cantidad de energía total que el generador puede suministrar a la nave en su conjunto en un momento dado se llama `power` y es un número entero positivo (0 incluido).
+La cantidad de energía que la nave en su conjunto consume nunca puede superar `power`.
+La cantidad de `power` que la nave no está usando es `idle-power` y es un número entero positivo (0 incluido).
+`idle-power` nunca puede ser más grande que `power`.
