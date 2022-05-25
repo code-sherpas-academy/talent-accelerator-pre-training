@@ -61,3 +61,7 @@ Como _Game Master_ quiero que el `health` de las naves no pueda ser negativo. Di
 ## Feature 5
 
 Como _Game Master_ quiero que las naves no puedan disparar si están destruidas.
+
+## Feature 6
+
+Como _Game Master_ quiero que las naves tengan un arma (`weapon`). A partir de hora, cuando una nave cualquiera `A` dispara a otra nave cualquiera `B`, la nave `A` ordena a su `weapon` que dispare contra `B`.
