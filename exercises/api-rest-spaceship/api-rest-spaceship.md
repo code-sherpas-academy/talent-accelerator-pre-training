@@ -78,7 +78,7 @@ Como _Game Master_ quiero que las naves tengan un generador el cual suministra e
 
 ## Feature 8
 
-A partir de ahora, `weapon` necesita cierta cantidad de energía para funcionar (`weapon-power-needed`, entero mayor que 0):
+A partir de ahora, como _Game Master_, quiero que `weapon` necesite cierta cantidad de energía para funcionar (`weapon-power-needed`, entero mayor que 0):
 - La cantidad de energía que `weapon` usa en cada momento se llama `power-consumed-by-weapon` (entero igual a 0 o mayor).
 - `power-consumed-by-weapon` no puede ser mayor que `weapon-power-needed`.
 - Si `power-consumed-by-weapon` es menor que `weapon-power-needed`, `weapon` no puede disparar.
@@ -88,4 +88,6 @@ power-consumed-by-weapon + power-not-in-use = total-power
 ```
 - Por defecto, `weapon` siempre intenta consumir toda la energía que necesita para funcionar. Por el momento, el _Game Master_ no puede elegir cuanta energía consume `weapon` del generador (`power-not-in-use`).
 
+## Feature 9
 
+Como _Game Master_ quiero poder elegir cuanta energía consume `weapon` (`power-consumed-by-weapon`) en cualquier momento de la simulación. Siempre respetando las reglas mencionadas en _features_ anteriores.
