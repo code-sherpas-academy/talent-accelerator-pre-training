@@ -88,6 +88,40 @@ power-consumed-by-weapon + power-not-in-use = total-power
 ```
 - Por defecto, `weapon` siempre intenta consumir toda la energía que necesita para funcionar. Por el momento, el _Game Master_ no puede elegir cuanta energía consume `weapon` del generador (`power-not-in-use`).
 
+Algunos ejemplos de estados de la nave:
+```
+total-power: 10
+weapon-power-needed: 5
+power-consumed-by-weapon: 4
+power-not-in-use: 6
+
+El arma no puede disparar porque necesita 5 y está consumiendo 4.
+```
+```
+total-power: 10
+weapon-power-needed: 5
+power-consumed-by-weapon: 5
+power-not-in-use: 5
+
+El arma sí puede disparar porque necesita 5 y está consumiendo 5.
+```
+```
+total-power: 10
+weapon-power-needed: 3
+power-consumed-by-weapon: 2
+power-not-in-use: 8
+
+El arma no puede disparar porque necesita 3 y está consumiendo 2.
+```
+```
+total-power: 10
+weapon-power-needed: 3
+power-consumed-by-weapon: 3
+power-not-in-use: 7
+
+El arma sí puede disparar porque necesita 3 y está consumiendo 3.
+```
+
 ## Feature 9
 
 Como _Game Master_ quiero poder elegir cuanta energía consume `weapon` (`power-consumed-by-weapon`) en cualquier momento de la simulación. Siempre respetando las reglas mencionadas en _features_ anteriores.
