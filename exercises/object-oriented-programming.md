@@ -1,21 +1,21 @@
-# Programación orientada a objetos
+# Object-oriented programming
 
-El objetivo de este ejercicio es aprender y poner en práctica los principales conceptos de la programación orientada a objetos.
+The objective of this exercise is to learn and put into practice the main concepts of object-oriented programming.
 
-Para cada uno de los siguientes conceptos:
+For each of the following concepts:
 
-- ¿Qué es un objeto? ¿De qué partes está compuesto?
-- Envío de mensajes
-- Encapsulación
-- Composición
-- ¿Qué es una clase? ¿Cómo se crea un objeto a partir de una clase?
-- ¿Qué es la herencia entre clases?
-- _Overriding_ (de funciones/métodos y propiedades/campos/atributos)
-- Funciones abstractas y campos abstractos
+- What is an object? What parts does it consist of?
+- Message passing
+- Encapsulation
+- Composition
+- What is a class? How is an object created from a class?
+- What is inheritance between classes?
+- Overriding (of functions/methods and properties/fields/attributes)
+- Abstract functions and abstract fields.
 
-Haz lo siguiente:
+Do the following:
 
-- Busca información acerca de él.
-- Intenta comprenderlo para poder explicárselo a otra persona que no sabe nada acerca del tema.
-- Elige un lenguaje de programación y ponlo en práctica con un ejemplo pequeño.
-- Graba un video mostrando tu código y explicando cómo has aplicado el concepto.
+- Look up information about it.
+- Try to understand it, so you can explain it to someone else who knows nothing about it.
+- Choose a programming language and put it into practice with a small example.
+- Record a video showing your code and explaining how you have applied the concept.
