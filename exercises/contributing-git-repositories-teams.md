@@ -8,7 +8,7 @@ Los objetivos de este ejercicio son:
 Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programación. Por cada lenguaje, tenemos que consultar sus índices de popularidad en [TIOBE Index](https://www.tiobe.com/tiobe-index/) y [IEEE Spectrum ranking](https://spectrum.ieee.org/top-programming-languages/) y actualizarlos en la tabla.
 
 |   Author   | Programming language | TIOBE index | IEEE Spectrum ranking |
-| :--------: | :------------------: | :---------: | :-------------------: |
+|:----------:|:--------------------:|:-----------:|:---------------------:|
 |  Alfonso   |      Javascript      |    2.12%    |         88.1          |
 |   Álvaro   |        Python        |   12.74%    |         100.0         |
 |  Augusto   |         Java         |   10.99%    |         95.4          |
@@ -24,14 +24,14 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |  Natalia   |         Ruby         |    0.86%    |         63.6          |
 |  Victoria  |         Rust         |    0.39%    |         63.1          |
 |   JoseMi   |        Kotlin        |    0.39%    |         58.5          |
-|            |        Scala         |    0.0%     |          0.0          |
-|            |       Haskell        |    0.0%     |          0.0          |
-|            |     Visual Basic     |    0.0%     |          0.0          |
-|            |         Lua          |    0.0%     |          0.0          |
+|   Frida    |        Scala         |    0.0%     |          0.0          |
+|    Rui     |       Haskell        |    0.0%     |          0.0          |
+|  Patrick   |     Visual Basic     |    0.0%     |          0.0          |
+|   David    |         Lua          |    0.0%     |          0.0          |
 |            |       Clojure        |    0.0%     |          0.0          |
 |            |         Lisp         |    0.0%     |          0.0          |
 |            |        Prolog        |    0.0%     |          0.0          |
-|            |        Swift         |    1.23%    |         70.4          |
+|            |        Swift         |    0.0%     |          0.0          |
 
 Cada uno de vosotros tiene que hacer lo siguiente para su fila (ver columna _Author_):
 
