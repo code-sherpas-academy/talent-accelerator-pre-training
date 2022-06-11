@@ -1,27 +1,25 @@
-# SQL: sentencias de consulta
+# SQL: SELECT statements
 
-El objetivo de este ejercicio es entrenar la mente para que visualice cómo están estructurados los datos y cómo se relacionan dentro de una base de datos relacional.
+The objective of this exercise is to train the mind to visualize how data is structured and how it is related within a relational database.
 
-Haz lo siguiente:
-1. Descarga el cliente SQL [DBeaver](https://dbeaver.io/)
-2. Instálalo y cuando te pregunte si quieres crear una base da datos de muestra, responde "Sí". DBeaver creará una base de datos SQLite con unas cuantas tablas.
-3. Escribe sentencias SQL que muestren los datos que se piden en los enunciados de las siguientes tablas. Para abrir un editor de scripts SQL, `clic secundario en la base de datos --> SQL Editor --> New SQl Script`
-4. Graba un video mostrando tus _queries_ y explicando para qué sirve cada palabra o cláusula SQL que has necesitado usar.
+Do the following:
+1. Download the SQL client [DBeaver](https://dbeaver.io/)
+2. Install it and when it asks you if you want to create a sample database, answer "Yes". DBeaver will create a SQLite database with a few tables.
+3. Write SQL statements that display the data requested in the statements of the following tables. To open a SQL script editor, `right click on the database --> SQL Editor --> New SQl Script`.
+4. Record a video showing your _queries_ and explaining what each SQL word or clause you needed to use is for.
 
-Recursos recomendados: 
+Recommended resources:
 - https://www.w3schools.com/sql/default.asp
 - https://www.sql-easy.com/es/
 
+| Invoices and customers                                                                                                                                                                                                                     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Display the invoices of customers who work for a company.                                                                                                                                                                                  |
+| Display the invoices of customers who work for a company. But it only shows the date of the invoice, and the client's name, last name, email and phone number.                                                                             |
+| Display the invoices of customers who work for a company. But it only shows the date of the invoice, and the client's name, last name, email and phone number. If the customer has no phone number, that customer should not be displayed. |
 
-| Facturas y clientes                                                                                                                                                                                                                                  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Muestra las facturas de clientes que trabajen en alguna empresa.                                                                                                                                                                                     |
-| Muestra las facturas de clientes que trabajen en alguna empresa. Pero solo muestra la fecha de la factura, y el nombre, apellido, email y número de teléfono del cliente.                                                                            |
-| Muestra las facturas de clientes que trabajen en alguna empresa. Pero solo muestra la fecha de la factura, y el nombre, apellido, email y número de teléfono del cliente. Si el cliente no tiene número de teléfono, ese cliente no se debe mostrar. |
-
-| Géneros musicales y _tracks_                                                                                                                                                             |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Muestra el nombre de todos los géneros y la cantidad de _tracks_ de cada uno.                                                                                                            |
-| Muestra el nombre de todos los géneros y la cantidad de _tracks_ de cada uno. Pero solo muestra los géneros que tengan 40 _tracks_ o más.                                                |
-| Muestra el nombre de todos los géneros y la cantidad de _tracks_ de cada uno. Pero solo muestra los géneros que tengan 40 _tracks_ o más. Ordénalos de mayor a menor número de _tracks_. |
-
+| Genres and tracks                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Display the name of all genres and the number of tracks of each one.                                                                                                                      |
+| Display the name of all genres and the number of tracks of each one. But it only shows the genres that have 40 tracks or more.                                                            |
+| Display the name of all genres and the number of tracks of each one. But it only shows the genres that have 40 tracks or more. Sort them from the highest to the lowest number of tracks. |
