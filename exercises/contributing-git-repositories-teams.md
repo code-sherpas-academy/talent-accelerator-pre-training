@@ -1,11 +1,11 @@
-# Contribuir en repositorios git compartidos por equipos de desarrollo
+# Contributing to git repositories shared by development teams
 
-Los objetivos de este ejercicio son:
+The objectives of this exercise are:
 
-- contribuir en un repositorio compartido por un equipo de desarrollo.
-- entender qué es un conflicto en git, por qué suceden y cómo se resuelven.
+- contribute to a repository shared by a development team.
+- understand what a conflict is in git, why they happen and how they are resolved.
 
-Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programación. Por cada lenguaje, tenemos que consultar sus índices de popularidad en [TIOBE Index](https://www.tiobe.com/tiobe-index/) y [IEEE Spectrum ranking](https://spectrum.ieee.org/top-programming-languages/) y actualizarlos en la tabla.
+We have to fill in the following programming language popularity table. For each language, we have to look up its popularity indexes in [TIOBE Index](https://www.tiobe.com/tiobe-index/) and [IEEE Spectrum ranking](https://spectrum.ieee.org/top-programming-languages/) and update them in the table.
 
 |   Author   | Programming language | TIOBE index | IEEE Spectrum ranking |
 |:----------:|:--------------------:|:-----------:|:---------------------:|
@@ -33,16 +33,17 @@ Tenemos que rellenar la siguiente tabla de popularidad de lenguajes de programac
 |            |        Prolog        |    0.0%     |          0.0          |
 |            |        Swift         |    0.0%     |          0.0          |
 
-Cada uno de vosotros tiene que hacer lo siguiente para su fila (ver columna _Author_):
+Each of you has to do the following for your row (see column _Author_):
 
-1. Crea dos ramas a partir de la principal. Una para actualizar el índice TIOBE, y otra para el otro índice. _Elige unos nombres para tus ramas que expresen sin lugar a dudas qué casilla de la tabla se va a modificar. Piensa que tus compañeros también van a crear otras 2 ramas. Tendríamos que poder ver todos los nombres de las ramas en una lista y saber relacionarlas sin dificultad con la casilla de la tabla que va a modificar._
-2. Ve a la rama de TIOBE y modifica el valor de la casilla con el valor que has encontrado en la web.
-3. Haz commit del cambio con un mensaje descriptivo (ver [Cómo escribir un buen mensaje de _commit_](https://cbea.ms/git-commit/))
-4. Haz push de tu cambio
-5. Ve a la página web de este repositorio y crea una pull request desde tu rama hacia la rama _main_.
-6. Acepta la pull request tu misma/o para que se integren los cambios en main.
-   1. Vuelve a hacer los pasos del 3 al 6 para hacer lo mismo pero con la rama de "IEEE Spectrum ranking". Si todo ha salido como esperamos, no habrás podido completar el paso 7. Esto se debe a que estás intentando modificar la misma línea que se ha modificado en _main_ y que aún no te has descargado en tu rama.
-7. Haz pull de _main_ hacia tu rama para resolver el conflicto y decidir cómo debe quedar la línea finalmente. Hazlo con el terminal de comandos.
-8. Cuando lo hayas conseguido, vuelve a repetir el proceso para provocar un conflicto, pero esta vez grábalo en video mientras lo explicas y grabas tu pantalla. Esta vez puedes intentar hacerlo con la ayuda de alguna herramienta gráfica como un IDE para que veas la diferencia en la experiencia de resolver un conflicto de git. Si no tienes experiencia grabando videos, te recomendamos dos opciones sencillas y rápidas:
+1. Create two branches from the main one. One for updating the TIOBE index, and one for the other index. Choose names for your branches that clearly express which cell of the table is to be modified. Think that your colleagues will also create 2 other branches. We should be able to see all the names of the branches in a list and be able to relate them without difficulty to the table cell to be modified.
+2. Go to the TIOBE branch and modify the value of the cell with the value you have found on the web.
+3. Commit the change with a descriptive message (see [How to write a good _commit_ message](https://cbea.ms/git-commit/)).
+4. Push your change
+5. Go to the web page of this repository and create a pull request from your branch to the _main_ branch.
+6. Accept the pull request yourself to integrate the changes into main.
+   1. Do steps 3 to 6 again to do the same but with the "IEEE Spectrum ranking" branch. If everything went as expected, you will not have been able to complete step 7. This is because you are trying to modify the same line that has been modified in _main_ and that you have not yet downloaded it into your branch.
+7. Pull _main_ into your branch to resolve the conflict and decide how the line should finally look. Do this with the command terminal.
+8. When you have succeeded, repeat the process again to cause a conflict, but this time record it on video while explaining it and recording your screen. This time you can try doing it with the help of a graphical tool such as an IDE to see the difference in the experience of resolving a git conflict. If you don't have experience recording videos, we recommend two quick and easy options:
    1. [Loom](https://www.loom.com/)
-   2. [Zoom](https://zoom.us/). Crea una videollamada donde estés tu sola/o, comparte tu pantalla y empieza a grabar la videollamada.
+   2. [Zoom](https://zoom.us/). Create a video call where you are alone, share your screen and start recording the video call.
+
