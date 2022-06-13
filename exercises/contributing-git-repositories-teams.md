@@ -41,7 +41,7 @@ Each of you has to do the following for your row (see column _Author_):
 4. Push your change
 5. Go to the web page of this repository and create a pull request from your branch to the _main_ branch.
 6. Accept the pull request yourself to integrate the changes into main.
-   1. Do steps 3 to 6 again to do the same but with the "IEEE Spectrum ranking" branch. If everything went as expected, you will not have been able to complete step 7. This is because you are trying to modify the same line that has been modified in _main_ and that you have not yet downloaded it into your branch.
+   1. Do steps 3 to 6 again to do the same but with the "IEEE Spectrum ranking" branch. If everything went as expected, you will not have been able to complete step 6. This is because you are trying to modify the same line that has been modified in _main_ and that you have not yet downloaded it into your branch.
 7. Pull _main_ into your branch to resolve the conflict and decide how the line should finally look. Do this with the command terminal.
 8. When you have succeeded, repeat the process again to cause a conflict, but this time record it on video while explaining it and recording your screen. This time you can try doing it with the help of a graphical tool such as an IDE to see the difference in the experience of resolving a git conflict. If you don't have experience recording videos, we recommend two quick and easy options:
    1. [Loom](https://www.loom.com/)
