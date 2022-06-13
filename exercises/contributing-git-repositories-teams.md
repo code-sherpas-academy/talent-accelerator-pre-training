@@ -8,7 +8,7 @@ The objectives of this exercise are:
 We have to fill in the following programming language popularity table. For each language, we have to look up its popularity indexes in [TIOBE Index](https://www.tiobe.com/tiobe-index/) and [IEEE Spectrum ranking](https://spectrum.ieee.org/top-programming-languages/) and update them in the table.
 
 |   Author   | Programming language | TIOBE index | IEEE Spectrum ranking |
-|:----------:|:--------------------:|:-----------:|:---------------------:|
+| :--------: | :------------------: | :---------: | :-------------------: |
 |  Alfonso   |      Javascript      |    2.12%    |         88.1          |
 |   Álvaro   |        Python        |   12.74%    |         100.0         |
 |  Augusto   |         Java         |   10.99%    |         95.4          |
@@ -26,8 +26,8 @@ We have to fill in the following programming language popularity table. For each
 |   JoseMi   |        Kotlin        |    0.39%    |         58.5          |
 |   Frida    |        Scala         |    0.0%     |          0.0          |
 |    Rui     |       Haskell        |    0.21%    |          0.0          |
-|  Patrick   |     Visual Basic     |    5.42%     |         55.1         |
-|   David    |         Lua          |    0.0%     |          0.0          |
+|  Patrick   |     Visual Basic     |    5.42%    |         55.1          |
+|   David    |         Lua          |    0.76%    |          0.0          |
 |            |       Clojure        |    0.0%     |          0.0          |
 |            |         Lisp         |    0.0%     |          0.0          |
 |            |        Prolog        |    0.0%     |          0.0          |
@@ -46,4 +46,3 @@ Each of you has to do the following for your row (see column _Author_):
 8. When you have succeeded, repeat the process again to cause a conflict, but this time record it on video while explaining it and recording your screen. This time you can try doing it with the help of a graphical tool such as an IDE to see the difference in the experience of resolving a git conflict. If you don't have experience recording videos, we recommend two quick and easy options:
    1. [Loom](https://www.loom.com/)
    2. [Zoom](https://zoom.us/). Create a video call where you are alone, share your screen and start recording the video call.
-
