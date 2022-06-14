@@ -27,7 +27,7 @@ We have to fill in the following programming language popularity table. For each
 |   Frida    |        Scala         |    0.0%     |          0.0          |
 |    Rui     |       Haskell        |    0.21%    |          0.0          |
 |  Patrick   |     Visual Basic     |    5.42%    |         55.1          |
-|   David    |         Lua          |    0.76%    |          0.0          |
+|   David    |         Lua          |    0.77%    |          0.0          |
 |            |       Clojure        |    0.0%     |          0.0          |
 |            |         Lisp         |    0.0%     |          0.0          |
 |            |        Prolog        |    0.0%     |          0.0          |
