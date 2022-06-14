@@ -24,7 +24,7 @@ We have to fill in the following programming language popularity table. For each
 |  Natalia   |         Ruby         |    0.86%    |         63.6          |
 |  Victoria  |         Rust         |    0.39%    |         63.1          |
 |   JoseMi   |        Kotlin        |    0.39%    |         58.5          |
-|   Frida    |        Scala         |    0.0%     |          0.0          |
+|   Frida    |        Scala         |    0.30%    |          0.0          |
 |    Rui     |       Haskell        |    0.21%    |          0.0          |
 |  Patrick   |     Visual Basic     |    5.42%    |         55.1          |
 |   David    |         Lua          |    0.76%    |          0.0          |
